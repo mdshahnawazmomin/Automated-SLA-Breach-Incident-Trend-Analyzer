@@ -1,0 +1,6 @@
+incident_id,status,created_time,resolved_time
+1,Resolved,01-02-2025,01-02-2025
+2,Resolved,01-02-2025,01-02-2025
+3,Resolved,02-02-2025,02-02-2025
+4,Resolved,02-02-2025,02-02-2025
+5,Open,03-02-2025,
